@@ -1,6 +1,5 @@
 +++
 date = '2025-01-19T20:17:09-08:00'
-draft = false 
 title = 'everythingmatters.press'
 +++
 
