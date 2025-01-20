@@ -4,7 +4,7 @@ title = 'everythingmatters.press'
 +++
 
 
-[books books books](https://everythingmatters.press)
+[-> !books books books! <-](https://everythingmatters.press/shop)
 <!--more-->
 
 ## --> books <--

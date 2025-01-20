@@ -1,0 +1,38 @@
+html {
+    background-color: #f00;
+}
+
+body {
+    color: white;
+}
+
+p {
+    margin: 0;
+}
+
+.link {
+    background-color: white;
+    border-radius: 2rem;
+    padding: .25rem;
+    text-align: center;
+    border: 2pt solid black;
+    box-shadow: 2px 2px 0px 0px black
+}
+
+.link:hover {
+    cursor: pointer;
+    border: 2pt dashed black;
+    box-shadow: none;
+}
+
+.link:not(:last-child) {
+    margin-bottom: 2rem;
+}
+
+.link img { 
+    max-width: 80vw;
+    max-height: 40vh;
+    border: 1px solid black;
+    border-radius: 1rem;
+}
+

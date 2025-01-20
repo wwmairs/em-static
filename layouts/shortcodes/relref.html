@@ -1,0 +1,10 @@
+{{- $u := urls.Parse (.Get 0) }}
+{{- if $u.IsAbs }}
+  {{- $u.String }}
+{{- else }}
+  {{- with or (.Page.GetPage $u.Path) (.Page.Resources.Get $u.Path) (resources.Get $u.Path) }}
+    {{- .RelPermalink }}
+  {{- else }}
+    {{- errorf "The %s shortcode was unable to find %s. See %s" .Name $u.Path .Position }}
+  {{- end -}}
+{{- end -}}
