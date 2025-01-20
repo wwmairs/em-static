@@ -1,0 +1,5 @@
+baseURL = 'https://everythingmatterspress.com'
+languageCode = 'en-us'
+title = 'everything matters'
+theme = 'em'
+
