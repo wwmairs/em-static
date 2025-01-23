@@ -4,25 +4,55 @@ html {
 
 body {
     color: white;
+    padding: .325rem;
 }
 
 p {
     margin: 0;
 }
 
+main {
+    max-width: 90vw;
+    margin: auto;
+    margin-bottom: 4rem;
+}
+
+hr {
+    border-style: solid;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+header h1 {
+    text-align: right;
+}
+
+#header-img {
+    border: 1px solid black;
+    border-radius: 75px;
+}
+
 .link {
     background-color: white;
     border-radius: 2rem;
+    border: 2pt solid black;
     padding: .25rem;
     text-align: center;
-    border: 2pt solid black;
-    box-shadow: 2px 2px 0px 0px black
+    box-shadow: 10px 10px 0px 0px black;
+    position: relative;
+}
+
+.link p:has(> img) {
+    max-width: 80vw;
+    max-height: 40vh;
+
 }
 
 .link:hover {
     cursor: pointer;
-    border: 2pt dashed black;
-    box-shadow: none;
+    border: 2pt solid black;
+    transform: translate(5px, 5px);
+    box-shadow: 5px 5px 0px 0px black;
 }
 
 .link:not(:last-child) {
@@ -30,7 +60,7 @@ p {
 }
 
 .link img { 
-    max-width: 80vw;
+    max-width: 90vw;
     max-height: 40vh;
     border: 1px solid black;
     border-radius: 1rem;
