@@ -1,6 +1,5 @@
 +++
 date = '2025-01-19T21:32:27-08:00'
-draft = true
 title = 'Magazine Vol 1'
 +++
 
