@@ -2,7 +2,7 @@
 date = '2025-02-28T10:12:37-08:00'
 title = "Ladd's Edition Vol. 3"
 draft = 'false'
-color = '#55f'
+color = "#55f"
 [_build]
   list = 'never'
 +++
@@ -13,7 +13,7 @@ color = '#55f'
 
 ---
 
-*$5 suggested price*  
-pay what you want!
+**$5 suggested price**
+*pay what you want!*
 
 ---
