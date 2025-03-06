@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/magazine-vol-1/</loc>
+    <loc>https://everythingmatterspress.com/posts/magazine-vol-1/</loc>
     <lastmod>2025-01-19T21:32:27-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/em/</loc>
+    <loc>https://everythingmatterspress.com/posts/em/</loc>
     <lastmod>2025-01-19T20:17:09-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://everythingmatterspress.com/posts/</loc>
     <lastmod>2023-01-01T08:30:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://everythingmatterspress.com/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://everythingmatterspress.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://everythingmatterspress.com/tags/</loc>
   </url>
 </urlset>
