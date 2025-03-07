@@ -8,8 +8,8 @@ color = "#55f"
 +++
 
 ---
-### [&rarr; pay by venmo &larr;](https://venmo.com/?txn=pay&audience=private&recipients=everything-matters&amount=5&note=Ladd%27s%20Vol.%203 "venmo payment link") {.link}
-### [&rarr; pay by card &larr;](https://buy.stripe.com/00g8y49gqbvc3K0dQU "stripe card payment link") {.link}
+### [&rarr; pay by venmo &larr;](https://venmo.com/code?user_id=4194437118821822027&created=1741308108.911439&printed=1 "venmo payment link") {.link}
+### [&rarr; pay by card &larr;](https://buy.stripe.com/6oE4jp20x5N3gQUcMO "stripe card payment link") {.link}
 
 ---
 
