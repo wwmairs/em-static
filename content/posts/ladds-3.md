@@ -8,7 +8,7 @@ color = "#55f"
 +++
 
 ---
-### [&rarr; pay by venmo &larr;](https://venmo.com/code?user_id=4194437118821822027&created=1741308108.911439&printed=1 "venmo payment link") {.link}
+### [&rarr; pay by venmo &larr;](https://www.paypal.com/qrcodes/venmocs/381a18d2-a271-43f2-a2a7-9f2dcc9b1cb3?amount=5.00&currency_code=USD&created=1741308656.405301 "venmo payment link") {.link}
 ### [&rarr; pay by card &larr;](https://buy.stripe.com/6oE4jp20x5N3gQUcMO "stripe card payment link") {.link}
 
 ---
