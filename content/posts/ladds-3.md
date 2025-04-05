@@ -3,6 +3,7 @@ date = '2025-02-28T10:12:37-08:00'
 title = "Ladd's Edition Vol. 3"
 draft = 'false'
 color = "#55f"
+link = "https://everythingmatters.press/prints/ladds-edition-vol-3/"
 [_build]
   list = 'never'
 +++

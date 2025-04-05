@@ -1,6 +1,7 @@
 +++
 date = '2025-04-04T16:27:55-08:00'
 title = 'vol2 open call'
+link = 'https://everythingmatters.press/open-call/'
 +++
 
 
