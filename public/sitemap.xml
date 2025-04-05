@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://everythingmatterspress.com/posts/open-call/</loc>
+    <loc>http://localhost:1313/posts/open-call/</loc>
     <lastmod>2025-04-04T16:27:55-08:00</lastmod>
   </url><url>
-    <loc>https://everythingmatterspress.com/posts/ladds-vol-3/</loc>
+    <loc>http://localhost:1313/posts/ladds-vol-3/</loc>
     <lastmod>2025-03-07T16:27:55-08:00</lastmod>
   </url><url>
-    <loc>https://everythingmatterspress.com/posts/magazine-vol-1/</loc>
+    <loc>http://localhost:1313/posts/magazine-vol-1/</loc>
     <lastmod>2025-01-19T21:32:27-08:00</lastmod>
   </url><url>
-    <loc>https://everythingmatterspress.com/posts/em/</loc>
+    <loc>http://localhost:1313/posts/em/</loc>
     <lastmod>2025-01-19T20:17:09-08:00</lastmod>
   </url><url>
-    <loc>https://everythingmatterspress.com/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2023-01-01T08:30:00-07:00</lastmod>
   </url><url>
-    <loc>https://everythingmatterspress.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://everythingmatterspress.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://everythingmatterspress.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
