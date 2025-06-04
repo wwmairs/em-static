@@ -15,7 +15,7 @@ link = "https://everythingmatters.press/prints/ladds-edition-vol-3/"
 ---
 
 *submissions rolling & always open*  
-**$10 suggested price**  
+**$7.50 suggested price**  
 *pay what you want!*
 
 ---
