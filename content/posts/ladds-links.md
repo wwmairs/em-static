@@ -10,12 +10,12 @@ link = "https://everythingmatters.press/prints/ladds-edition-vol-3/"
 
 ---
 ### [&rarr; submissions &larr;](https://forms.gle/FL5sRhYrw7tTPHeB9 "venmo payment link") {.link}
-### [&rarr; subscriptions &larr;](https://buy.stripe.com/5kQ5kDeE406lg0J3qh2B205 "stripe card payment link") {.link}
-
+### [&rarr; buy vol. 4 ! &larr;](https://buy.stripe.com/5kQ5kDeE406lg0J3qh2B205 "stripe card payment link") {.link}
+### [&rarr; vol. 5 presales &larr;](https://buy.stripe.com/dRmaEXfI87yN4i1aSJ2B206){.link}
 ---
 
 *submissions rolling & always open*  
-**$7.50 suggested price**  
+**$8.00 suggested price**  
 *pay what you want!*
 
 ---
