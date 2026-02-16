@@ -17,8 +17,7 @@ we're looking for: PHOTOGRAPHS, SILLY WORDS, SERIOUS WORDS, ILLUSTRATIONS, NEIGH
 ---
 
 *LADD'S EDITION is a riso-printed neighborhood publication about not so much in 
-particular ! open to submissions from anyone; copies are $8 suggested price, pay
-what you want!*
+particular ! open to submissions from anyone*
 
 
 *submissions rolling & always open*  
