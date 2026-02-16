@@ -1,10 +1,27 @@
 html {
-    background-color: #99f;
+    background-color: aliceblue;
 }
 
 body {
-    color: white;
+/*    --text-color: #d26b04;*/
+    --text-color: chocolate;
+    color: var(--text-color);
     padding: .325rem;
+    font-family: "news-gothic-std", sans-serif;
+    line-height: 1.5;
+    margin: 1rem;
+    max-width: 750px;
+    margin: auto;
+}
+
+h1 {
+    transform: scaleY(1.5);
+    font-size: 3rem;
+}
+
+a {
+  color: #00e;
+  text-decoration: none;
 }
 
 p {
@@ -18,13 +35,35 @@ main {
 }
 
 hr {
-    border-style: solid;
+    border-style: none;
+/*    border: 3px solid var(--text-color);*/
     margin-top: 2rem;
     margin-bottom: 2rem;
+    color: var(--text-color);
+    font-weight: 900;
+    font-size: 1.5rem;
+    text-align: center;
 }
+
+hr:after {
+    content: "* * *";
+}
+
+header {
+    margin-bottom: 2rem;
+    text-align: center;
+
+}
+
 
 header h1 {
     text-align: right;
+}
+
+footer {
+    padding: .25rem;
+    margin-top: 1rem;
+    text-align: left;
 }
 
 #header-img {
