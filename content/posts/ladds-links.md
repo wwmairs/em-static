@@ -12,7 +12,7 @@ we're looking for: PHOTOGRAPHS, SILLY WORDS, SERIOUS WORDS, ILLUSTRATIONS, NEIGH
 
 --- 
 ### [&rarr; submissions &larr;](https://forms.gle/FL5sRhYrw7tTPHeB9 "venmo payment link") {.link}
-### [&rarr; buy vol. 4 ! &larr;](https://buy.stripe.com/5kQ5kDeE406lg0J3qh2B205 "stripe card payment link") {.link}
+### [&rarr; buy vol. 4 (oct. 2025)! &larr;](https://buy.stripe.com/5kQ5kDeE406lg0J3qh2B205 "stripe card payment link") {.link}
 ### [&rarr; vol. 5 presales &larr;](https://buy.stripe.com/dRmaEXfI87yN4i1aSJ2B206){.link}
 ---
 
@@ -21,6 +21,9 @@ particular ! open to submissions from anyone*
 
 
 *submissions rolling & always open*  
-**$8.00 suggested price**  
-*pay what you want!*
+*free copies for contributors!*
+
+
+copies are $8.00 suggested price
+
 
