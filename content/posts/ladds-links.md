@@ -5,15 +5,14 @@ draft = 'false'
 [_build]
   list = 'never'
 +++
-# &rarr; OPEN CALL FOR VOL. 5 &larr;
-*expected release spring 2026*
+# &rarr; OPEN CALL FOR VOL. 6 &larr;
+*expected release winter 2026*
 
 we're looking for: PHOTOGRAPHS, SILLY WORDS, SERIOUS WORDS, ILLUSTRATIONS, NEIGHBORHOOD EVENTS, LOVELY PLACES, DOGS, CATS, SQUIRRELS, OWLS, NON-FICTION, SEMI-FICTION, FULL-FICTION, SCATHING EDITORIALS ABOUT URGENT AFFAIRS, HOT GOSSIP ABOUT COYOTES AND/OR HUMANS
 
 --- 
 ### [&rarr; submissions &larr;](https://forms.gle/FL5sRhYrw7tTPHeB9 "venmo payment link") {.link}
-### [&rarr; buy vol. 4 (oct. 2025)! &larr;](https://buy.stripe.com/5kQ5kDeE406lg0J3qh2B205 "stripe card payment link") {.link}
-### [&rarr; vol. 5 presales &larr;](https://buy.stripe.com/dRmaEXfI87yN4i1aSJ2B206){.link}
+### [&rarr; vol. 6 presales &larr;](https://buy.stripe.com/9B614n53u3ix15PaSJ2B208){.link}
 ---
 
 *LADD'S EDITION is a riso-printed neighborhood publication about not so much in 
