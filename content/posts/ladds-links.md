@@ -25,4 +25,5 @@ particular ! open to submissions from anyone*
 
 copies are $8.00 suggested price
 
-
+---
+*LADD'S EDITION is is funded in part by the Regional Arts & Culture Council and the Office of Arts & Culture.”*
