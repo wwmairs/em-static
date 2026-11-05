@@ -1,5 +1,5 @@
 +++
-date = '2026-02-15T10:12:37-08:00'
+date = '2026-11-01T10:12:37-08:00'
 title = "Ladd's Edition"
 draft = 'false'
 [_build]
